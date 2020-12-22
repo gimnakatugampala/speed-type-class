@@ -11,26 +11,26 @@ const difficultySelect = document.getElementById('difficulty');
 
 // List of words for game
 const words = [
-    'migara',
-    'bryan',
-    'sandro',
-    'azmi',
-    'roshan',
-    'akash',
-    'teran',
-    'aadhil',
-    'manjula',
-    'munaj',
-    'sahasra',
-    'salma',
-    'azeeza',
-    'afra',
-    'sahassrika',
-    'kawmini',
-    'adhya',
-    'kapila',
-    'seneka',
-    'sanduni'
+    'Migara',
+    'Bryan',
+    'Sandro',
+    'Azmi',
+    'Roshan',
+    'Akash',
+    'Teran',
+    'Aadhil',
+    'Manjula',
+    'Munaj',
+    'Sahasra',
+    'Salma',
+    'Azeeza',
+    'Afra',
+    'Sahassrika',
+    'Kawmini',
+    'Adhya',
+    'Kapila',
+    'Seneka',
+    'Sanduni'
   ];
   
 //Init word
